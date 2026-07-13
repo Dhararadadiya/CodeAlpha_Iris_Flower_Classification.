@@ -40,7 +40,3 @@ python app.py
 - Model Training
 - Accuracy Evaluation
 - User Input Prediction
-
-## Author
-
-panthi thummar
